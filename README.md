@@ -1,3 +1,3 @@
 # FoodOrderCartApp
 
-Need to change state to reducer and implement context api
+Food ordering app with working cart shown as a modal
